@@ -1,0 +1,16 @@
+$hero-bg-color: rgb(255, 145, 145);
+$t-color: #fff;
+$bg-width: 75px;
+$bg-height: 45vh;
+$h1-text-size: 7.5px;
+$b-padding: 20px;
+$b-radius: 15px;
+
+.button{
+    background-color: $hero-bg-color;
+    width: $bg-width;
+    font-size: $h1-text-size;
+    color: $t-color;
+    padding: $b-padding;
+    border-radius: $b-radius;
+}
