@@ -1,9 +1,30 @@
-.button {
-  background-color: #ff9191;
-  width: 75px;
-  font-size: 7.5px;
+.button1 {
+  background-color: #fab6b6;
+  width: 150px;
+  font-size: 15px;
   color: #fff;
-  padding: 20px;
+  padding: 15px;
   border-radius: 15px;
+  cursor: pointer;
+}
+
+.button2 {
+  background-color: #fab6b6;
+  width: 150px;
+  font-size: 15px;
+  color: #fff;
+  padding: 15px;
+  border-radius: 15px;
+  cursor: pointer;
+}
+
+.button3 {
+  background-color: #fab6b6;
+  width: 150px;
+  font-size: 15px;
+  color: #fff;
+  padding: 15px;
+  border-radius: 15px;
+  cursor: pointer;
 }
 /*# sourceMappingURL=style.css.map */

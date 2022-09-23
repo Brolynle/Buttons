@@ -1,16 +1,37 @@
-$hero-bg-color: rgb(255, 145, 145);
+$hero-bg-color: rgb(250, 182, 182);
 $t-color: #fff;
-$bg-width: 75px;
-$bg-height: 45vh;
-$h1-text-size: 7.5px;
-$b-padding: 20px;
+$bg-width: 150px;
+$bg-height: 150vh;
+$button-text-size: 15px;
+$b-padding: 15px;
 $b-radius: 15px;
 
-.button{
+.button1{
     background-color: $hero-bg-color;
     width: $bg-width;
-    font-size: $h1-text-size;
+    font-size: $button-text-size;
     color: $t-color;
     padding: $b-padding;
     border-radius: $b-radius;
+    cursor: pointer;
+}
+
+.button2{
+    background-color: $hero-bg-color;
+    width: $bg-width;
+    font-size: $button-text-size;
+    color: $t-color;
+    padding: $b-padding;
+    border-radius: $b-radius;
+    cursor: pointer;
+}
+
+.button3{
+    background-color: $hero-bg-color;
+    width: $bg-width;
+    font-size: $button-text-size;
+    color: $t-color;
+    padding: $b-padding;
+    border-radius: $b-radius;
+    cursor: pointer;
 }
